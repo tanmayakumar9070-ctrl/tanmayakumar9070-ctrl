@@ -17,11 +17,12 @@ pushed to GitHub.
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
 | 1 | [Temperature Converter CLI](https://github.com/tanmayakumar9070-ctrl/temperature-converter) | Python, argparse, unittest | ✅ Done |
-| 2 | Text Analyzer | File I/O, regex, string processing | 🔄 In progress |
-| 3 | Data Dashboard | Pandas, Matplotlib, Seaborn | 📅 Upcoming |
-| 4 | House Price Predictor | Scikit-learn, Streamlit | 📅 Upcoming |
-| 5 | Image Classifier | PyTorch, CNNs | 📅 Upcoming |
-| 6 | RAG Document Assistant | LangChain, Vector DBs, LLMs | 📅 Upcoming |
+| 2 | [astrobot](https://github.com/tanmayakumar9070-ctrl/astrobot) | Python, NASA gov image| live |
+| 3 | Text Analyzer | File I/O, regex, string processing | 🔄 In progress |
+| 4 | Data Dashboard | Pandas, Matplotlib, Seaborn | 📅 Upcoming |
+| 5 | House Price Predictor | Scikit-learn, Streamlit | 📅 Upcoming |
+| 6 | Image Classifier | PyTorch, CNNs | 📅 Upcoming |
+| 7 | RAG Document Assistant | LangChain, Vector DBs, LLMs | 📅 Upcoming |
 
 ## Tech stack
 
